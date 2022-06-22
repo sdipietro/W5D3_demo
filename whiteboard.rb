@@ -16,7 +16,7 @@ def doubler(array)
 end
 
 first = [1,2,3]
-second = ['hello', 'goodbye']
+second = ['hello', 'goodbye'] 
 third = ['banana', 10]
 p doubler(first)
 p doubler(second)
